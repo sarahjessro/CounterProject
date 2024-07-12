@@ -1,0 +1,33 @@
+.header {
+    font-family: "Nunito Sans", sans-serif;
+    text-align: center;
+    padding-top: 30px;
+    color:cornflowerblue;
+    
+}
+.counter-number {
+    color: cornflowerblue;
+    font-family: "Nunito Sans", sans-serif;
+    margin-top: -15px;
+}
+button {
+    background-color: cornflowerblue;
+    border-radius: 3px;
+    border-color: cornflowerblue;
+    width: 80px;
+    height:70px;
+}
+
+button:hover {
+    background-color: rgb(56, 86, 141);
+    cursor: pointer;
+}
+.counter {
+    display:flex;
+    justify-content: center;
+    margin-top: -64px;
+}
+
+body {
+    background-color: rgb(16, 15, 15);
+}
